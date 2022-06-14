@@ -1,0 +1,8 @@
+{
+    "moviesTitle": "Filmovi",
+    "errorOccured": "Došlo je do pogreške. Molimo pokušajte ponovno kasnije",
+    "title": "Naslov",
+    "rating": "Ocjena",
+    "description": "Opis",
+    "voteAverage": "{voteAverage}/10 IMDb"
+}

@@ -1,0 +1,16 @@
+{
+    "moviesTitle": "Movies",
+    "errorOccured": "An Error Occurred, Please Try Again Later",
+    "title": "Title",
+    "rating": "Rating",
+    "description": "Description",
+    "voteAverage": "{voteAverage}/10 IMDb",
+    "@voteAverage": {
+        "description": "message",
+        "placeholders": {
+            "voteAverage": {
+                "type": "String"
+            }
+        }
+    }
+}
